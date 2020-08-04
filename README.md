@@ -1,6 +1,9 @@
 # hot_app
 
-A new Flutter project.
+A new Flutter project. This project includes -
++ How does Hot Reload in Flutter works. Using stateless widgets
++ Added statusBar Configuration file in pubspec.yml
++ Use of different status bar color. using Pub.dev website
 
 ## Getting Started
 
